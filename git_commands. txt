@@ -1,0 +1,14 @@
+ from logging import log
+git init
+ git add  testing.py
+ git status
+  git commit -m " added testing file"
+ git commit testing.py
+git config --global user.name "name"
+  git config --global user.email " mmmmm@gmail.com"
+ cls
+ git add .
+ git log
+rm testing.py
+git restore testing.py
+ git log
